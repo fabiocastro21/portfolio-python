@@ -47,4 +47,3 @@ Tenho interesse em:
 - Desenvolvimento de Software
 - Automação
 - Programação Orientada a Objetos
-- Git e GitHub
